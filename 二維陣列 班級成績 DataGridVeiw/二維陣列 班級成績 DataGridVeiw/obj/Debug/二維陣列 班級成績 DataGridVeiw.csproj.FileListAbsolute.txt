@@ -1,0 +1,9 @@
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\bin\Debug\二維陣列 班級成績 DataGridVeiw.exe.config
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\bin\Debug\二維陣列 班級成績 DataGridVeiw.exe
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\bin\Debug\二維陣列 班級成績 DataGridVeiw.pdb
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\obj\Debug\二維陣列 班級成績 DataGridVeiw.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\obj\Debug\二維陣列_班級成績_DataGridVeiw.Form1.resources
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\obj\Debug\二維陣列_班級成績_DataGridVeiw.Properties.Resources.resources
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\obj\Debug\二維陣列 班級成績 DataGridVeiw.csproj.GenerateResource.Cache
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\obj\Debug\二維陣列 班級成績 DataGridVeiw.exe
+E:\desktop\作業\C#\二維陣列 班級成績 DataGridVeiw\二維陣列 班級成績 DataGridVeiw\obj\Debug\二維陣列 班級成績 DataGridVeiw.pdb

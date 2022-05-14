@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二維陣列 行列式\二維陣列 行列式\bin\Debug\二維陣列 行列式.exe.config
+E:\desktop\作業\C#\二維陣列 行列式\二維陣列 行列式\bin\Debug\二維陣列 行列式.exe
+E:\desktop\作業\C#\二維陣列 行列式\二維陣列 行列式\bin\Debug\二維陣列 行列式.pdb
+E:\desktop\作業\C#\二維陣列 行列式\二維陣列 行列式\obj\Debug\二維陣列 行列式.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二維陣列 行列式\二維陣列 行列式\obj\Debug\二維陣列 行列式.exe
+E:\desktop\作業\C#\二維陣列 行列式\二維陣列 行列式\obj\Debug\二維陣列 行列式.pdb

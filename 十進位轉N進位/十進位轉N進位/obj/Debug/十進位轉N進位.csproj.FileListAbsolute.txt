@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\bin\Debug\十進位轉N進位.exe.config
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\bin\Debug\十進位轉N進位.exe
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\bin\Debug\十進位轉N進位.pdb
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\obj\Debug\十進位轉N進位.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\obj\Debug\十進位轉N進位.exe
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\obj\Debug\十進位轉N進位.pdb

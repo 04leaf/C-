@@ -1,0 +1,5 @@
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\bin\Release\十進位轉N進位.exe.config
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\bin\Release\十進位轉N進位.exe
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\bin\Release\十進位轉N進位.pdb
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\obj\Release\十進位轉N進位.exe
+E:\desktop\作業\C#\十進位轉N進位\十進位轉N進位\obj\Release\十進位轉N進位.pdb

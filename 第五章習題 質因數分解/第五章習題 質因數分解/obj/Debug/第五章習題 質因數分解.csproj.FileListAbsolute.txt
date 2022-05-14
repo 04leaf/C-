@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\第五章習題 質因數分解\第五章習題 質因數分解\bin\Debug\第五章習題 質因數分解.exe.config
+E:\desktop\作業\C#\第五章習題 質因數分解\第五章習題 質因數分解\bin\Debug\第五章習題 質因數分解.exe
+E:\desktop\作業\C#\第五章習題 質因數分解\第五章習題 質因數分解\bin\Debug\第五章習題 質因數分解.pdb
+E:\desktop\作業\C#\第五章習題 質因數分解\第五章習題 質因數分解\obj\Debug\第五章習題 質因數分解.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\第五章習題 質因數分解\第五章習題 質因數分解\obj\Debug\第五章習題 質因數分解.exe
+E:\desktop\作業\C#\第五章習題 質因數分解\第五章習題 質因數分解\obj\Debug\第五章習題 質因數分解.pdb

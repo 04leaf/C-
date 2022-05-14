@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\阿姆斯壯數\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\阿姆斯壯數\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\阿姆斯壯數\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\阿姆斯壯數\ConsoleApplication4\obj\Debug\阿姆斯壯數.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\阿姆斯壯數\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\阿姆斯壯數\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

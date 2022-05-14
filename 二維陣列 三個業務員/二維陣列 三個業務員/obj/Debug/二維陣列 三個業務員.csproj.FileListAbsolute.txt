@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二維陣列 三個業務員\二維陣列 三個業務員\bin\Debug\二維陣列 三個業務員.exe.config
+E:\desktop\作業\C#\二維陣列 三個業務員\二維陣列 三個業務員\bin\Debug\二維陣列 三個業務員.exe
+E:\desktop\作業\C#\二維陣列 三個業務員\二維陣列 三個業務員\bin\Debug\二維陣列 三個業務員.pdb
+E:\desktop\作業\C#\二維陣列 三個業務員\二維陣列 三個業務員\obj\Debug\二維陣列 三個業務員.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二維陣列 三個業務員\二維陣列 三個業務員\obj\Debug\二維陣列 三個業務員.exe
+E:\desktop\作業\C#\二維陣列 三個業務員\二維陣列 三個業務員\obj\Debug\二維陣列 三個業務員.pdb

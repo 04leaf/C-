@@ -1,0 +1,5 @@
+E:\desktop\作業\C#\輾轉相除法求最大公因數\輾轉相除法求最大公因數\bin\Release\輾轉相除法求最大公因數.exe.config
+E:\desktop\作業\C#\輾轉相除法求最大公因數\輾轉相除法求最大公因數\bin\Release\輾轉相除法求最大公因數.exe
+E:\desktop\作業\C#\輾轉相除法求最大公因數\輾轉相除法求最大公因數\bin\Release\輾轉相除法求最大公因數.pdb
+E:\desktop\作業\C#\輾轉相除法求最大公因數\輾轉相除法求最大公因數\obj\Release\輾轉相除法求最大公因數.exe
+E:\desktop\作業\C#\輾轉相除法求最大公因數\輾轉相除法求最大公因數\obj\Release\輾轉相除法求最大公因數.pdb

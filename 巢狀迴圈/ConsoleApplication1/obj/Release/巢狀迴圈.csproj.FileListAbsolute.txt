@@ -1,0 +1,5 @@
+E:\desktop\作業\C#\巢狀迴圈\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+E:\desktop\作業\C#\巢狀迴圈\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+E:\desktop\作業\C#\巢狀迴圈\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+E:\desktop\作業\C#\巢狀迴圈\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+E:\desktop\作業\C#\巢狀迴圈\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

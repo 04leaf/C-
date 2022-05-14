@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\while亂數練習\while亂數練習\bin\Debug\while亂數練習.exe.config
+E:\desktop\作業\C#\while亂數練習\while亂數練習\bin\Debug\while亂數練習.exe
+E:\desktop\作業\C#\while亂數練習\while亂數練習\bin\Debug\while亂數練習.pdb
+E:\desktop\作業\C#\while亂數練習\while亂數練習\obj\Debug\while亂數練習.exe
+E:\desktop\作業\C#\while亂數練習\while亂數練習\obj\Debug\while亂數練習.pdb
+E:\desktop\作業\C#\while亂數練習\while亂數練習\obj\Debug\while亂數練習.csprojResolveAssemblyReference.cache

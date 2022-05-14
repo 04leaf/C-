@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二分逼近法\二分逼近法\bin\Debug\二分逼近法.exe.config
+E:\desktop\作業\C#\二分逼近法\二分逼近法\bin\Debug\二分逼近法.exe
+E:\desktop\作業\C#\二分逼近法\二分逼近法\bin\Debug\二分逼近法.pdb
+E:\desktop\作業\C#\二分逼近法\二分逼近法\obj\Debug\二分逼近法.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二分逼近法\二分逼近法\obj\Debug\二分逼近法.exe
+E:\desktop\作業\C#\二分逼近法\二分逼近法\obj\Debug\二分逼近法.pdb

@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\第五章習題 累加\第五章習題 累加\bin\Debug\第五章習題 累加.exe.config
+E:\desktop\作業\C#\第五章習題 累加\第五章習題 累加\bin\Debug\第五章習題 累加.exe
+E:\desktop\作業\C#\第五章習題 累加\第五章習題 累加\bin\Debug\第五章習題 累加.pdb
+E:\desktop\作業\C#\第五章習題 累加\第五章習題 累加\obj\Debug\第五章習題 累加.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\第五章習題 累加\第五章習題 累加\obj\Debug\第五章習題 累加.exe
+E:\desktop\作業\C#\第五章習題 累加\第五章習題 累加\obj\Debug\第五章習題 累加.pdb

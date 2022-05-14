@@ -1,0 +1,5 @@
+E:\desktop\作業\C#\質數\質數\bin\Debug\質數.exe.config
+E:\desktop\作業\C#\質數\質數\bin\Debug\質數.exe
+E:\desktop\作業\C#\質數\質數\bin\Debug\質數.pdb
+E:\desktop\作業\C#\質數\質數\obj\Debug\質數.exe
+E:\desktop\作業\C#\質數\質數\obj\Debug\質數.pdb

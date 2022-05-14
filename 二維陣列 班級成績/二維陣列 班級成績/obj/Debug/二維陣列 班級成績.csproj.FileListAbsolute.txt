@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二維陣列 班級成績\二維陣列 班級成績\bin\Debug\二維陣列 班級成績.exe.config
+E:\desktop\作業\C#\二維陣列 班級成績\二維陣列 班級成績\bin\Debug\二維陣列 班級成績.exe
+E:\desktop\作業\C#\二維陣列 班級成績\二維陣列 班級成績\bin\Debug\二維陣列 班級成績.pdb
+E:\desktop\作業\C#\二維陣列 班級成績\二維陣列 班級成績\obj\Debug\二維陣列 班級成績.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二維陣列 班級成績\二維陣列 班級成績\obj\Debug\二維陣列 班級成績.exe
+E:\desktop\作業\C#\二維陣列 班級成績\二維陣列 班級成績\obj\Debug\二維陣列 班級成績.pdb

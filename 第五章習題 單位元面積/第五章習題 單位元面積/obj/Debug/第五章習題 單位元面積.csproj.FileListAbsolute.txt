@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\第五章習題 單位元面積\第五章習題 單位元面積\bin\Debug\第五章習題 單位元面積.exe.config
+E:\desktop\作業\C#\第五章習題 單位元面積\第五章習題 單位元面積\bin\Debug\第五章習題 單位元面積.exe
+E:\desktop\作業\C#\第五章習題 單位元面積\第五章習題 單位元面積\bin\Debug\第五章習題 單位元面積.pdb
+E:\desktop\作業\C#\第五章習題 單位元面積\第五章習題 單位元面積\obj\Debug\第五章習題 單位元面積.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\第五章習題 單位元面積\第五章習題 單位元面積\obj\Debug\第五章習題 單位元面積.exe
+E:\desktop\作業\C#\第五章習題 單位元面積\第五章習題 單位元面積\obj\Debug\第五章習題 單位元面積.pdb

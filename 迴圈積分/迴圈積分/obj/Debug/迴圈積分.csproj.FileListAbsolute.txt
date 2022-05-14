@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\迴圈積分\迴圈積分\bin\Debug\迴圈積分.exe.config
+E:\desktop\作業\C#\迴圈積分\迴圈積分\bin\Debug\迴圈積分.exe
+E:\desktop\作業\C#\迴圈積分\迴圈積分\bin\Debug\迴圈積分.pdb
+E:\desktop\作業\C#\迴圈積分\迴圈積分\obj\Debug\迴圈積分.exe
+E:\desktop\作業\C#\迴圈積分\迴圈積分\obj\Debug\迴圈積分.pdb
+E:\desktop\作業\C#\迴圈積分\迴圈積分\obj\Debug\迴圈積分.csprojResolveAssemblyReference.cache

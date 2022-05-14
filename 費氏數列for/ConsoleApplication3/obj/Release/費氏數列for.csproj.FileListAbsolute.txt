@@ -1,0 +1,5 @@
+E:\desktop\作業\C#\費氏數列for\ConsoleApplication3\bin\Release\ConsoleApplication3.exe.config
+E:\desktop\作業\C#\費氏數列for\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+E:\desktop\作業\C#\費氏數列for\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+E:\desktop\作業\C#\費氏數列for\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+E:\desktop\作業\C#\費氏數列for\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb

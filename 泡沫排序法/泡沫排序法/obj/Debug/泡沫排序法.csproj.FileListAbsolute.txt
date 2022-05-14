@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\泡沫排序法\泡沫排序法\bin\Debug\泡沫排序法.exe.config
+E:\desktop\作業\C#\泡沫排序法\泡沫排序法\bin\Debug\泡沫排序法.exe
+E:\desktop\作業\C#\泡沫排序法\泡沫排序法\bin\Debug\泡沫排序法.pdb
+E:\desktop\作業\C#\泡沫排序法\泡沫排序法\obj\Debug\泡沫排序法.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\泡沫排序法\泡沫排序法\obj\Debug\泡沫排序法.exe
+E:\desktop\作業\C#\泡沫排序法\泡沫排序法\obj\Debug\泡沫排序法.pdb

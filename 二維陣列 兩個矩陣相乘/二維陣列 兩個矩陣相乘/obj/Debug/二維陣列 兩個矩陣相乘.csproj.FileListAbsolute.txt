@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二維陣列 兩個矩陣相乘\二維陣列 兩個矩陣相乘\bin\Debug\二維陣列 兩個矩陣相乘.exe.config
+E:\desktop\作業\C#\二維陣列 兩個矩陣相乘\二維陣列 兩個矩陣相乘\bin\Debug\二維陣列 兩個矩陣相乘.exe
+E:\desktop\作業\C#\二維陣列 兩個矩陣相乘\二維陣列 兩個矩陣相乘\bin\Debug\二維陣列 兩個矩陣相乘.pdb
+E:\desktop\作業\C#\二維陣列 兩個矩陣相乘\二維陣列 兩個矩陣相乘\obj\Debug\二維陣列 兩個矩陣相乘.exe
+E:\desktop\作業\C#\二維陣列 兩個矩陣相乘\二維陣列 兩個矩陣相乘\obj\Debug\二維陣列 兩個矩陣相乘.pdb
+E:\desktop\作業\C#\二維陣列 兩個矩陣相乘\二維陣列 兩個矩陣相乘\obj\Debug\二維陣列 兩個矩陣相乘.csprojResolveAssemblyReference.cache

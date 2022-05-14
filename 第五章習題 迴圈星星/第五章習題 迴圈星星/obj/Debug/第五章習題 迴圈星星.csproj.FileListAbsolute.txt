@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\第五章習題 迴圈星星\第五章習題 迴圈星星\bin\Debug\第五章習題 迴圈星星.exe.config
+E:\desktop\作業\C#\第五章習題 迴圈星星\第五章習題 迴圈星星\bin\Debug\第五章習題 迴圈星星.exe
+E:\desktop\作業\C#\第五章習題 迴圈星星\第五章習題 迴圈星星\bin\Debug\第五章習題 迴圈星星.pdb
+E:\desktop\作業\C#\第五章習題 迴圈星星\第五章習題 迴圈星星\obj\Debug\第五章習題 迴圈星星.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\第五章習題 迴圈星星\第五章習題 迴圈星星\obj\Debug\第五章習題 迴圈星星.exe
+E:\desktop\作業\C#\第五章習題 迴圈星星\第五章習題 迴圈星星\obj\Debug\第五章習題 迴圈星星.pdb

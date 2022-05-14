@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\鋸齒式陣列\鋸齒式陣列\bin\Debug\鋸齒式陣列.exe.config
+E:\desktop\作業\C#\鋸齒式陣列\鋸齒式陣列\bin\Debug\鋸齒式陣列.exe
+E:\desktop\作業\C#\鋸齒式陣列\鋸齒式陣列\bin\Debug\鋸齒式陣列.pdb
+E:\desktop\作業\C#\鋸齒式陣列\鋸齒式陣列\obj\Debug\鋸齒式陣列.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\鋸齒式陣列\鋸齒式陣列\obj\Debug\鋸齒式陣列.exe
+E:\desktop\作業\C#\鋸齒式陣列\鋸齒式陣列\obj\Debug\鋸齒式陣列.pdb

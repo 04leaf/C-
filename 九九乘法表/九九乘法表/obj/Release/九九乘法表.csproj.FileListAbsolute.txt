@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\九九乘法表\九九乘法表\bin\Release\九九乘法表.exe.config
+E:\desktop\作業\C#\九九乘法表\九九乘法表\bin\Release\九九乘法表.exe
+E:\desktop\作業\C#\九九乘法表\九九乘法表\bin\Release\九九乘法表.pdb
+E:\desktop\作業\C#\九九乘法表\九九乘法表\obj\Release\九九乘法表.exe
+E:\desktop\作業\C#\九九乘法表\九九乘法表\obj\Release\九九乘法表.pdb
+E:\desktop\作業\C#\九九乘法表\九九乘法表\obj\Release\九九乘法表.csprojResolveAssemblyReference.cache

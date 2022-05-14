@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二維陣列線性搜尋\二維陣列線性搜尋\bin\Debug\二維陣列線性搜尋.exe.config
+E:\desktop\作業\C#\二維陣列線性搜尋\二維陣列線性搜尋\bin\Debug\二維陣列線性搜尋.exe
+E:\desktop\作業\C#\二維陣列線性搜尋\二維陣列線性搜尋\bin\Debug\二維陣列線性搜尋.pdb
+E:\desktop\作業\C#\二維陣列線性搜尋\二維陣列線性搜尋\obj\Debug\二維陣列線性搜尋.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二維陣列線性搜尋\二維陣列線性搜尋\obj\Debug\二維陣列線性搜尋.exe
+E:\desktop\作業\C#\二維陣列線性搜尋\二維陣列線性搜尋\obj\Debug\二維陣列線性搜尋.pdb

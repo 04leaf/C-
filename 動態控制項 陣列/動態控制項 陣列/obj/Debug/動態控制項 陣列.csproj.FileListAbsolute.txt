@@ -1,0 +1,9 @@
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\bin\Debug\動態控制項 陣列.exe.config
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\bin\Debug\動態控制項 陣列.exe
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\bin\Debug\動態控制項 陣列.pdb
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\obj\Debug\動態控制項 陣列.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\obj\Debug\動態控制項_陣列.Form1.resources
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\obj\Debug\動態控制項_陣列.Properties.Resources.resources
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\obj\Debug\動態控制項 陣列.csproj.GenerateResource.Cache
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\obj\Debug\動態控制項 陣列.exe
+E:\desktop\作業\C#\動態控制項 陣列\動態控制項 陣列\obj\Debug\動態控制項 陣列.pdb

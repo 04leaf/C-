@@ -1,0 +1,5 @@
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\bin\Release\ConsoleApplication4.exe.config
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\bin\Release\ConsoleApplication4.exe
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\bin\Release\ConsoleApplication4.pdb
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\obj\Release\ConsoleApplication4.exe
+E:\desktop\作業\C#\阿姆斯壯數\ConsoleApplication4\obj\Release\ConsoleApplication4.pdb

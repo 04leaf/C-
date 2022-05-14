@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.pdb

@@ -1,0 +1,6 @@
+E:\desktop\作業\C#\二維陣列 矩陣相加\二維陣列 矩陣相加\bin\Debug\二維陣列 矩陣相加.exe.config
+E:\desktop\作業\C#\二維陣列 矩陣相加\二維陣列 矩陣相加\bin\Debug\二維陣列 矩陣相加.exe
+E:\desktop\作業\C#\二維陣列 矩陣相加\二維陣列 矩陣相加\bin\Debug\二維陣列 矩陣相加.pdb
+E:\desktop\作業\C#\二維陣列 矩陣相加\二維陣列 矩陣相加\obj\Debug\二維陣列 矩陣相加.csprojResolveAssemblyReference.cache
+E:\desktop\作業\C#\二維陣列 矩陣相加\二維陣列 矩陣相加\obj\Debug\二維陣列 矩陣相加.exe
+E:\desktop\作業\C#\二維陣列 矩陣相加\二維陣列 矩陣相加\obj\Debug\二維陣列 矩陣相加.pdb
