@@ -1,0 +1,9 @@
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\bin\Release\動態控制項 數字推盤拚圖.exe.config
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\bin\Release\動態控制項 數字推盤拚圖.exe
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\bin\Release\動態控制項 數字推盤拚圖.pdb
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\obj\Release\動態控制項_數字推盤拚圖.Form1.resources
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\obj\Release\動態控制項_數字推盤拚圖.Properties.Resources.resources
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\obj\Release\動態控制項 數字推盤拚圖.csproj.GenerateResource.Cache
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\obj\Release\動態控制項 數字推盤拚圖.exe
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\obj\Release\動態控制項 數字推盤拚圖.pdb
+E:\github\C#\動態控制項 數字推盤拚圖\動態控制項 數字推盤拚圖\obj\Release\動態控制項 數字推盤拚圖.csprojResolveAssemblyReference.cache
