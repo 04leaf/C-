@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "運算子多載 型別轉換分數相加", "運算子多載 型別轉換分數相加\運算子多載 型別轉換分數相加.csproj", "{7635BF0A-7CB8-4CF5-88D6-F3A2C3E40BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7635BF0A-7CB8-4CF5-88D6-F3A2C3E40BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7635BF0A-7CB8-4CF5-88D6-F3A2C3E40BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7635BF0A-7CB8-4CF5-88D6-F3A2C3E40BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7635BF0A-7CB8-4CF5-88D6-F3A2C3E40BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
