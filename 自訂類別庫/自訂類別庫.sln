@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自訂類別庫", "自訂類別庫\自訂類別庫.csproj", "{BE06CA6E-9066-4DD6-8CE2-D57C03C3833A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE06CA6E-9066-4DD6-8CE2-D57C03C3833A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE06CA6E-9066-4DD6-8CE2-D57C03C3833A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE06CA6E-9066-4DD6-8CE2-D57C03C3833A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE06CA6E-9066-4DD6-8CE2-D57C03C3833A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
